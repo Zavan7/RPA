@@ -1,0 +1,53 @@
+2024-12-31 16:19:50,038 - root - INFO - Processo finalizado com sucesso.
+2024-12-31 16:20:21,138 - root - INFO - Processo finalizado com sucesso.
+2024-12-31 18:14:02,960 - root - ERROR - Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2024-12-31 18:27:10,907 - root - ERROR - main.<locals>.cap_download() takes 0 positional arguments but 1 was given
+2024-12-31 18:28:31,963 - root - ERROR - 'exc_info' is an invalid keyword argument for print()
+2024-12-31 18:29:11,001 - root - ERROR - 'exc_info' is an invalid keyword argument for print()
+2024-12-31 18:29:28,363 - root - ERROR - 'exc_info' is an invalid keyword argument for print()
+2024-12-31 18:30:37,407 - root - ERROR - 'exc_info' is an invalid keyword argument for print()
+2024-12-31 18:31:49,490 - root - ERROR - 'exc_info' is an invalid keyword argument for print()
+2024-12-31 18:34:28,915 - root - ERROR - 'exc_info' is an invalid keyword argument for print()
+2024-12-31 18:35:35,466 - root - ERROR - Error: 'WindowsPath' object has no attribute 'path'
+Traceback (most recent call last):
+  File "c:\rpa\main.py", line 25, in cap_download
+    path = download.path()
+           ^^^^^^^^^^^^^
+AttributeError: 'WindowsPath' object has no attribute 'path'
+2024-12-31 18:36:59,536 - root - ERROR - Error during download processing:
+Traceback (most recent call last):
+  File "c:\rpa\main.py", line 25, in cap_download
+    path = download.path()
+           ^^^^^^^^^^^^^
+AttributeError: 'WindowsPath' object has no attribute 'path'
+2024-12-31 18:38:14,369 - root - ERROR - Error during download processing:
+Traceback (most recent call last):
+  File "c:\rpa\main.py", line 25, in cap_download
+    path = download.path()
+           ^^^^^^^^^^^^^
+AttributeError: 'WindowsPath' object has no attribute 'path'
+2024-12-31 18:40:29,202 - root - ERROR - Error during download processing:
+Traceback (most recent call last):
+  File "c:\rpa\main.py", line 25, in cap_download
+    path = download.path()
+           ^^^^^^^^^^^^^
+AttributeError: 'WindowsPath' object has no attribute 'path'
+2024-12-31 18:40:55,662 - root - ERROR - Error during download processing:
+Traceback (most recent call last):
+  File "c:\rpa\main.py", line 25, in cap_download
+    path = download.path()
+           ^^^^^^^^^^^^^
+AttributeError: 'WindowsPath' object has no attribute 'path'
+2024-12-31 18:41:33,171 - root - ERROR - Error during download processing:
+Traceback (most recent call last):
+  File "c:\rpa\main.py", line 25, in cap_download
+    path = download.path()
+           ^^^^^^^^^^^^^
+AttributeError: 'WindowsPath' object has no attribute 'path'
+2024-12-31 18:42:48,169 - root - ERROR - Error during download processing:
+Traceback (most recent call last):
+  File "c:\rpa\main.py", line 25, in cap_download
+    path = download.path()
+           ^^^^^^^^^^^^^
+AttributeError: 'WindowsPath' object has no attribute 'path'
+2024-12-31 18:43:50,242 - root - INFO - Downloaded e6974667-aa2c-4076-ba1d-7c355e157eea to C:\Users\VTIROZ~1\AppData\Local\Temp\playwright-artifacts-Tb1GZJ\e6974667-aa2c-4076-ba1d-7c355e157eea
